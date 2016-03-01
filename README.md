@@ -54,10 +54,6 @@ Mobile and Other Devices
 We currently provide our mobile services for free, but please be aware that your carrier's normal rates and fees, such as text messaging and data charges, will still apply.
 In the event you change or deactivate your mobile telephone number, you will update your account information on BackNine within 48 hours to ensure that your messages are not sent to the person who acquires your old number.
 You provide consent and all rights necessary to enable users to sync (including through an application) their devices with any information that is visible to them on BackNine.
- 
-Special Provisions Applicable to Developers/Operators of Applications and Websites 
-
-About Advertisements and Other Commercial Content Served or Enhanced by BackNine
 
 Our goal is to deliver advertising and other commercial or sponsored content that is valuable to our users and advertisers. In order to help us do that, you agree to the following:
 You give us permission to use your name, profile picture, content, and information in connection with commercial, sponsored, or related content (such as a brand you like) served or enhanced by us. This means, for example, that you permit a business or other entity to pay us to display your name and/or profile picture with your content or information, without any compensation to you. If you have selected a specific audience for your content or information, we will respect your choice when we use it.
@@ -112,3 +108,4 @@ Nothing in this Statement shall prevent us from complying with the law.
 This Statement does not confer any third party beneficiary rights.
 We reserve all rights not expressly granted to you.
 You will comply with all applicable laws when using or accessing BackNine.
+By agreeing to BackNine's terms, you agree to the terms of service of SynapsePay (our financial partner) found <a href="https://synapsepay.com/legal">here</a> which are incorporated herein by reference.
