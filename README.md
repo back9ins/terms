@@ -83,7 +83,6 @@ Special Provisions Applicable to Users Outside the United States
 We strive to create a global community with consistent standards for everyone, but we also strive to respect local laws. The following provisions apply to users and non-users who interact with BackNine outside the United States:
 You consent to having your personal data transferred to and processed in the United States.
 If you are located in a country embargoed by the United States, or are on the U.S. Treasury Department's list of Specially Designated Nationals you will not engage in commercial activities on BackNine (such as advertising or payments) or operate a Platform application or website. You will not use BackNine if you are prohibited from receiving products, services, or software originating from the United States.
-Certain specific terms that apply only for German users are available here.
 Definitions
 
 By "BackNine" we mean the features and services we make available, including through (a) our website at www.back9ins.com and any other BackNine branded or co-branded websites (including sub-domains, international versions, widgets, and mobile versions); (b) our Platform; (c) social plugins; and (d) other media, brands, products, services, software, devices, or networks now existing or later developed. BackNine reserves the right to designate, in its sole discretion, that certain of our brands, products, or services are governed by separate terms and not this SRR.
