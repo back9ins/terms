@@ -108,4 +108,4 @@ Nothing in this Statement shall prevent us from complying with the law.
 This Statement does not confer any third party beneficiary rights.
 We reserve all rights not expressly granted to you.
 You will comply with all applicable laws when using or accessing BackNine.
-By using our services, you agree to SynapseFi's <a href="https://synapsepay.com/legal">Terms of Service and Privacy Policy</a>.
+By using our services, you agree to SynapseFi's <a href="https://synapsefi.com/legal">Terms of Service and Privacy Policy</a>.
