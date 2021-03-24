@@ -2,6 +2,16 @@
 BackNine's Terms of Use
 This document governs our relationship with users and others who interact with BackNine. By using or accessing BackNine, you agree to these Terms of Use.
 
+Commissions
+
+BackNine agrees that commission payment, if any, made by BackNine to you shall be vested in you to the same extent that commissions on the same transaction are vested in BackNine by applicable insurance company, with the exception of Group Insurance which may be subject to a Broker of Record direction.
+In the event that any commission, premium or fee paid or credited to you must be referenced of returned by BackNine to the insurer, BackNine is authorized, but not obligated, to make payment on your behalf and will be reimbursed for this payment in full by you within thirty (30) days of the date of such payment. If such payment is not make by you, then BackNine is authorized to debit any commissions which may be due to you until such obligation has been fulfilled. You will also reimburse BackNine for any and all costs and expenses (including reasonable attorney’s fees) incurred by BackNine in collection of any such sums from you.
+Both you and BackNine agree to hold each other harmless and indemnify each other against any and all liability, loss, damages, judgments, cost or expenses of any nature, type or kind (including reasonable attorney’s fees) incurred or imposed upon as a result of any allegedly wrongful or tortuous act or omission on a respective party. In the event of litigation to determine the respective right, duties and/or obligation of the parties under this agreement, the prevailing party shall be entitled to reasonable attorney’s fee.
+
+Communication
+
+You consent to the transmission of information, whether personal, commercial or of an advertising nature, by way of email.
+
 Privacy
 
 Your privacy is very important to us. We designed our Privacy Policy to make important disclosures about how you can use BackNine and how we collect and can use your content and information. We encourage you to read the Privacy Policy, and to use it to help you make informed decisions. 
