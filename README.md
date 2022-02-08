@@ -46,8 +46,8 @@ If we disable your account, you will not create another one without our permissi
 You will not use BackNine if you are under 18.
 You will keep your contact information accurate and up-to-date.
 You will not share your password (or in the case of developers, your secret key), let anyone else access your account, or do anything else that might jeopardize the security of your account.
-You will not transfer your account (including any Page or application you administer) to anyone without first getting our written permission.
-If you select a username or similar identifier for your account or Page, we reserve the right to remove or reclaim it if we believe it is appropriate (such as when a trademark owner complains about a username that does not closely relate to a user's actual name).
+You will not transfer your account to anyone without first getting our written permission.
+If you select a username or similar identifier for your account, we reserve the right to remove or reclaim it if we believe it is appropriate (such as when a trademark owner complains about a username that does not closely relate to a user's actual name).
  
 Protecting Other People's Rights
 
