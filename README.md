@@ -8,6 +8,10 @@ BackNine agrees that commission payment, if any, made by BackNine to you shall b
 In the event that any commission, premium or fee paid or credited to you must be referenced of returned by BackNine to the insurer, BackNine is authorized, but not obligated, to make payment on your behalf and will be reimbursed for this payment in full by you within thirty (30) days of the date of such payment. If such payment is not make by you, then BackNine is authorized to debit any commissions which may be due to you until such obligation has been fulfilled. You will also reimburse BackNine for any and all costs and expenses (including reasonable attorney’s fees) incurred by BackNine in collection of any such sums from you.
 Both you and BackNine agree to hold each other harmless and indemnify each other against any and all liability, loss, damages, judgments, cost or expenses of any nature, type or kind (including reasonable attorney’s fees) incurred or imposed upon as a result of any allegedly wrongful or tortuous act or omission on a respective party. In the event of litigation to determine the respective right, duties and/or obligation of the parties under this agreement, the prevailing party shall be entitled to reasonable attorney’s fee.
 
+**Customer Ownership**
+
+During the course of our relationship, you may submit your customers' information to BackNine for quotes, applications, marketing, and other services. BackNine will not use your customers' information in an attempt to earn commission from the sale of insurance products unless you will also receive commission from the sale of insurance products, or unless expressly agreed to by you.
+
 **Communication**
 
 You consent to the transmission of information, whether personal, commercial or of an advertising nature, by way of email.
