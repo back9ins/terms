@@ -18,7 +18,7 @@ You consent to the transmission of information, whether personal, commercial or 
 
 **Privacy**
 
-Your privacy is very important to us. We designed our Privacy Policy to make important disclosures about how you can use BackNine and how we collect and can use your content and information. We encourage you to read the Privacy Policy, and to use it to help you make informed decisions. 
+Your privacy is very important to us. We designed our Privacy Policy to make important disclosures about how you can use BackNine and how we collect and can use your content and information. We encourage you to read the Privacy Policy, and to use it to help you make informed decisions.
  
 **Sharing Your Content and Information**
 
@@ -40,6 +40,7 @@ You will not develop or operate a third-party application containing alcohol-rel
 You will not use BackNine to do anything unlawful, misleading, malicious, or discriminatory.
 You will not do anything that could disable, overburden, or impair the proper working or appearance of BackNine, such as a denial of service attack or interference with page rendering or other BackNine functionality.
 You will not facilitate or encourage any violations of this Statement or our policies.
+The contents of email messages and any attachments are intended solely for the addressee(s) and may contain confidential and/or privileged information and may be legally protected from disclosure. If you are not the intended recipient of the message or their agent, or if the message has been addressed to you in error, please immediately alert the sender by reply email and then delete the message and any attachments. If you are not the intended recipient, you are hereby notified that any use, dissemination, copying, or storage of the message or its attachments is strictly prohibited.
  
 **Registration and Account Security**
 
