@@ -131,6 +131,32 @@ We strive to create a global community with consistent standards for everyone, b
 You consent to having your personal data transferred to and processed in the United States.
 If you are located in a country embargoed by the United States, or are on the U.S. Treasury Department's list of Specially Designated Nationals you will not engage in commercial activities on BackNine (such as advertising or payments) or operate a Platform application or website. You will not use BackNine if you are prohibited from receiving products, services, or software originating from the United States.
 
+
+**SMS Messaging**
+By opting in to receive SMS messages from Back 9 Insurance and Financial Services, you agree to the following terms.
+Consent to Receive Messages
+
+By providing your mobile phone number and opting in, you consent to receive SMS text messages from Back 9 Insurance and Financial Services related to business communications. These messages may include updates, notifications, service information, or direct communications from our team.
+
+***Message Frequency***
+Message frequency may vary depending on your interaction with Back 9 Insurance and Financial Services and the nature of the communication.
+
+***Message and Data Rates***
+Message and data rates may apply depending on your mobile carrier and plan. Back 9 Insurance and Financial Services is not responsible for any charges incurred from your mobile carrier.
+
+***Opt-Out Instructions***
+You may opt out of receiving SMS messages at any time by replying:
+STOP
+After sending STOP, you will receive confirmation that you have been unsubscribed. You will no longer receive SMS messages from us unless you opt in again.
+***Help Instructions***
+If you need assistance, reply:
+HELP
+or contact us at:
+info@back9ins.com
+(800) 790-1951
+***Supported Carriers***
+SMS services are supported by most major mobile carriers. However, delivery is not guaranteed and may depend on your carrier and network availability.
+
 **Definitions**
 
 By "BackNine" we mean the features and services we make available, including through (a) our website at www.back9ins.com and any other BackNine branded or co-branded websites (including sub-domains, international versions, widgets, and mobile versions); (b) our Platform; (c) social plugins; and (d) other media, brands, products, services, software, devices, or networks now existing or later developed. BackNine reserves the right to designate, in its sole discretion, that certain of our brands, products, or services are governed by separate terms and not this SRR.
