@@ -24,7 +24,7 @@ The Confidential Information provided by each party shall be deemed to be confid
 
 **Privacy**
 
-Your privacy is very important to us. We designed our Privacy Policy to make important disclosures about how you can use BackNine and how we collect and can use your content and information. We encourage you to read the Privacy Policy, and to use it to help you make informed decisions.
+Your privacy is very important to us. We designed our Privacy Policy to make important disclosures about how you can use BackNine and how we collect and can use your content and information. We encourage you to read the Privacy Policy, and to use it to help you make informed decisions. [View Privacy Policy](https://github.com/back9ins/privacy-policy)
  
 **Sharing Your Content and Information**
 
@@ -130,6 +130,42 @@ Unauthorized Transfers: Tell us at once if you believe your account or PIN or Ac
 We strive to create a global community with consistent standards for everyone, but we also strive to respect local laws. The following provisions apply to users and non-users who interact with BackNine outside the United States:
 You consent to having your personal data transferred to and processed in the United States.
 If you are located in a country embargoed by the United States, or are on the U.S. Treasury Department's list of Specially Designated Nationals you will not engage in commercial activities on BackNine (such as advertising or payments) or operate a Platform application or website. You will not use BackNine if you are prohibited from receiving products, services, or software originating from the United States.
+
+**Privacy Policy (SMS Messaging)**
+BackNine respects your privacy and is committed to protecting the personal information you share with us.
+
+***Information We Collect***
+When you opt in to receive SMS communications, we may collect:
+* Your mobile phone number
+* Your name or contact information (if provided)
+* Message interaction data (such as delivery status or replies)
+
+***How We Use Your Information***
+We use this information to:
+* Send SMS communications you have requested or consented to
+* Respond to inquiries or requests
+* Provide updates, notifications, or service-related messages
+* Maintain and improve our communication services
+
+***Information Sharing***
+We do not sell, rent, or share your mobile phone number with third parties for marketing purposes.
+Your information may only be shared with trusted service providers strictly for the purpose of delivering SMS communications (such as messaging platforms or carriers).
+
+***Data Security***
+We take reasonable administrative, technical, and physical safeguards to protect your information from unauthorized access, disclosure, or misuse.
+
+***Data Retention***
+We retain your information only as long as necessary to provide SMS communication services or comply with legal obligations.
+
+***Your Choices***
+You may opt out of SMS communications at any time by replying STOP to any message.
+
+***Contact Information***
+If you have questions regarding this Privacy Policy, please contact:
+BackNine Insurance and Financial Services, Inc.
+info@back9ins.com
+(800) 790-1951
+310 N Westlake Blvd STE 240, Westlake Village, CA 91362
 
 **Definitions**
 
