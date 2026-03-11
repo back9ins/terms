@@ -140,6 +140,9 @@ When you opt in to receive SMS communications, we may collect:
 * Your name or contact information (if provided)
 * Message interaction data (such as delivery status or replies)
 
+***SMS Frequency***
+Message frequency varies depending on your interaction with our services, but you may receive up to 5 messages per week.
+
 ***How We Use Your Information***
 We use this information to:
 * Send SMS communications you have requested or consented to
