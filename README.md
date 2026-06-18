@@ -1,4 +1,4 @@
-# terms
+# Terms
 BackNine's Terms of Use
 This document governs our relationship with users and others who interact with BackNine. By using or accessing BackNine, you agree to these Terms of Use.
 
