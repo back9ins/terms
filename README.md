@@ -2,11 +2,19 @@
 BackNine's Terms of Use
 This document governs our relationship with users and others who interact with BackNine. By using or accessing BackNine, you agree to these Terms of Use.
 
+**Governing Agreements**
+
+BackNine generally does not require a separate producer or agency agreement. Your relationship with BackNine is governed by these Terms of Use, together with applicable insurance carrier contracts, appointments, commission schedules, and any other agreements expressly entered into in writing by the applicable parties. Carrier requirements and contractual obligations remain applicable independently of these Terms. BackNine does not ordinarily negotiate separate agency agreements or addenda for platform access or integrations.
+
 **Commissions**
 
 BackNine agrees that commission payment, if any, made by BackNine to you shall be vested in you to the same extent that commissions on the same transaction are vested in BackNine by applicable insurance company, with the exception of Group Insurance which may be subject to a Broker of Record direction.
 In the event that any commission, premium or fee paid or credited to you must be refunded of returned by BackNine to the insurer, BackNine is authorized, but not obligated, to make payment on your behalf and will be reimbursed for this payment in full by you within thirty (30) days of the date of such payment. If such payment is not made by you, then BackNine is authorized to debit any commissions which may be due to you until such obligation has been fulfilled. You will also reimburse BackNine for any and all costs and expenses (including reasonable attorney’s fees) incurred by BackNine in collection of any such sums from you.
 Both you and BackNine agree to hold each other harmless and indemnify each other against any and all liability, loss, damages, judgments, cost or expenses of any nature, type or kind (including reasonable attorney’s fees) incurred or imposed upon as a result of any allegedly wrongful or tortuous act or omission on a respective party. In the event of litigation to determine the respective right, duties and/or obligation of the parties under this agreement, the prevailing party shall be entitled to reasonable attorney’s fee.
+
+### Commissions Following Departure
+
+Ending your relationship with BackNine does not, by itself, terminate your rights to renewal commissions vested under the applicable carrier arrangements. Vesting, payment, reporting, and any applicable chargebacks or repayment obligations remain subject to the carrier contracts, commission schedules, and these Terms. When an insurance carrier pays commissions directly to you, the carrier's payment and reporting procedures continue to apply. BackNine does not guarantee payment or reporting by a carrier.
 
 ### BackNine Pay
 
@@ -36,6 +44,16 @@ You agree that BackNine may maintain records of commissions received, amounts al
 
 During the course of our relationship, you may submit your customers' information to BackNine for quotes, applications, marketing, and other services. BackNine will not use your customers' information in an attempt to earn commission from the sale of insurance products unless you will also receive commission from the sale of insurance products, or unless expressly agreed to by you.
 
+### Data Access and Portability
+
+BackNine may make tools available for accessing or exporting customer, policy, application, and related business information, subject to user permissions, applicable privacy and security requirements, third-party rights, and the capabilities of the platform. Availability of an account or export feature after you stop submitting business does not guarantee indefinite or free access. Subject to applicable law and any express written obligations, BackNine may modify, limit, suspend, discontinue, or charge for access and export services, including following departure. This section does not change the Customer Ownership provision above.
+
+**Carrier Releases and Pending Applications**
+
+BackNine generally approves requests to release an agent or agency to another brokerage general agency when there are no outstanding carrier chargebacks or related repayment obligations involving the requesting agent or agency or affiliated parties in its commission hierarchy, including uplines and downlines. BackNine may withhold a release while such obligations remain unresolved. All releases are subject to applicable carrier rules, requirements, and procedures.
+
+Applications submitted to BackNine and worked on by BackNine before a release ordinarily remain with BackNine for continued processing and placement. A release does not, by itself, transfer those pending applications or waive compensation attributable to that business, subject to carrier requirements or a different arrangement expressly approved by BackNine.
+
 **Communication**
 
 You consent to the transmission of information, whether personal, commercial or of an advertising nature, by way of email.
@@ -45,6 +63,10 @@ You consent to the transmission of information, whether personal, commercial or 
 The term “Confidential Information” shall mean confidential and proprietary information, including financial information, documentation, business and marketing plans, and other technical, strategic planning and/or business information, in written, verbal and/or electronic form (the “Confidential Information”). Notwithstanding the foregoing, to be deemed “Confidential Information” for purposes of this Agreement, any information disclosed in written and/or electronic form shall be marked “confidential” by the disclosing party, at the time of disclosure, and any information disclosed orally shall be identified as confidential at the time of disclosure. Notwithstanding anything to the contrary contained herein, the term “Confidential Information” does not include information that: (i) is or becomes publicly available other than by disclosure by the receiving party in violation of this Agreement; (ii) is known to the receiving party prior to disclosure by the disclosing party hereunder; or (iii) is independently developed by the receiving party outside of this Agreement.
 
 The Confidential Information provided by each party shall be deemed to be confidential and proprietary information of the disclosing party. The receiving party agrees that, except as otherwise permitted by this Agreement, the Confidential Information will only be divulged to and used by its employees with a need to know for the purpose of evaluating or implementing a possible business transaction with the disclosing party (the "Permitted Persons"). The receiving party shall use the same degree of care in its handling of the Confidential Information as it uses with regard to its own proprietary information, with not less than a reasonable degree of care, in order to prevent the unauthorized or inadvertent disclosure, use or publication of the Confidential Information. The receiving party agrees to be responsible for any breach of this Agreement by the Permitted Persons and will not permit any of the Permitted Persons to divulge, use or publish any Confidential Information except in accordance with the terms of this Agreement. The receiving party may disclose the Confidential Information to the extent required by law, regulation or order of a court or regulatory authority; provided that the receiving party: (i) provides the disclosing party with prompt written notice of the requirement, (ii) affords the disclosing party a reasonable opportunity to protect the Confidential Information, and, (iii) if the disclosing party cannot protect the Confidential Information, discloses the Confidential Information only to the extent legally required and treats the Confidential Information in accordance with this Agreement for all other purposes.
+
+**Security and Compliance Documentation**
+
+BackNine may make its available SOC 2 report and other security or compliance documentation available to prospective or existing business partners, subject to an appropriate nondisclosure agreement and BackNine's approval. BackNine determines which documents may be shared and under what conditions. Providing such materials does not, by itself, establish a separate service-level, incident-response, or business-continuity commitment.
 
 **Privacy**
 
